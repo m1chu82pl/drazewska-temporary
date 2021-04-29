@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Kasia Drazewska",
+  "name": "Kasia Drazewska Creative Copywriter",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://drazewskacom.web.app/",
+  "homepage": "https://drazewskacom.web.app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
